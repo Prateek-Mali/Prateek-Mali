@@ -10,8 +10,8 @@ Building real AI projects from scratch. No tutorials. No copies.
 ### 🚀 What I Build
 
 - 🛡️ **CreditGuard** — Loan default risk detection · Random Forest · Flask · React
-- 🎓 **PathAI** — Career recommendation system · Custom dataset · scikit-learn
-- 🤖 **AI Agents** — LangChain · LangGraph · RAG pipelines
+- 🎓 **Career** — Career recommendation system · Custom dataset · scikit-learn
+- 🤖 **pdf-rag-chatbot ** — LangChain · LangGraph · RAG pipelines
 
 ---
 
