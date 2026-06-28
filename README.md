@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 I'm Pratik Mali</h2>
 
 <p align="left">
-Second Year B.Tech — Artificial Intelligence & Machine Learning<br>
+Second Year — Artificial Intelligence & Machine Learning Student<br>
 Building real AI projects from scratch. No tutorials. No copies.
 </p>
 
